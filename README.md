@@ -230,4 +230,4 @@ Author
 Data Analytics Project
 
 
-This is the complete README. One paste only ✅
+This is the complete README.✅
